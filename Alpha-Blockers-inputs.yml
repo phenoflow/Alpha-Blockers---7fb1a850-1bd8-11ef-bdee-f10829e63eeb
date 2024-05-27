@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/alpha-blockers-tamsulosin---primary.py
+inputModule3:
+  class: File
+  path: python/alpha-blockers-cardura---primary.py
+inputModule4:
+  class: File
+  path: python/alpha-blockers-terazosin---primary.py
+inputModule5:
+  class: File
+  path: python/alpha-blockers-doxazosin---primary.py
+inputModule6:
+  class: File
+  path: python/alpha-blockers-solution---primary.py
+inputModule7:
+  class: File
+  path: python/alpha-blockers-modifiedrelease---primary.py
+inputModule8:
+  class: File
+  path: python/alpha-blockers-hypovase---primary.py
+inputModule9:
+  class: File
+  path: python/alpha-blockers-hytrin---primary.py
+inputModule10:
+  class: File
+  path: python/alpha-blockers-baratol---primary.py
+inputModule11:
+  class: File
+  path: python/xatral-alpha-blockers---primary.py
+inputModule12:
+  class: File
+  path: python/alpha-blockers-500microgram---primary.py
+inputModule13:
+  class: File
+  path: python/alpha-blockers-cardozin---primary.py
+inputModule14:
+  class: File
+  path: python/alpha-blockers-alphavase---primary.py
+inputModule15:
+  class: File
+  path: python/alpha-blockers-suspension---primary.py
+inputModule16:
+  class: File
+  path: python/alpha-blockers-alfuzosin---primary.py
+inputModule17:
+  class: File
+  path: python/alpha-blockers-flomax---primary.py
+inputModule18:
+  class: File
+  path: python/alpha-blockers-cascor---primary.py
+inputModule19:
+  class: File
+  path: python/alpha-blockers-capsule---primary.py
+inputModule20:
+  class: File
+  path: python/alpha-blockers-pamsvax---primary.py
+inputModule21:
+  class: File
+  path: python/alpha-blockers-tablet---primary.py
+inputModule22:
+  class: File
+  path: python/alpha-blockers-ampoule---primary.py
+inputModule23:
+  class: File
+  path: python/omnic-alpha-blockers---primary.py
+inputModule24:
+  class: File
+  path: python/alpha-blockers-besavar---primary.py
+inputModule25:
+  class: File
+  path: python/alpha-blockers-starter---primary.py
+inputModule26:
+  class: File
+  path: python/alpha-blockers-phenoxybenzamine---primary.py
+inputModule27:
+  class: File
+  path: python/alpha-blockers-doxadura---primary.py
+inputModule28:
+  class: File
+  path: python/alpha-blockers-injection---primary.py
+inputModule29:
+  class: File
+  path: python/alpha-blockers-indoramin---primary.py
+inputModule30:
+  class: File
+  path: python/alpha-blockers-hyperplasia---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
